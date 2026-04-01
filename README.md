@@ -9,6 +9,7 @@ This repository serves as my personal knowledge base and testing methodology tra
 
 ### 🕸️ Web Exploitation
 *Practical techniques for breaking web applications.*
+* [LFI & RFI Basics and Bypasses](Web-Exploitation/LFI-RFI/notes.md) - *April 2, 2026*
 * [Title of SSRF Write-up Summary](Web-Exploitation/SSRF-Example.md) - *Date*
 * [Title of File Upload Bypass Summary](Web-Exploitation/File-Upload-Example.md) - *Date*
 * [Burp Suite Advanced Workflows](Web-Exploitation/Burp-Suite-Tips.md) - *Date*
